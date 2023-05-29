@@ -10,4 +10,14 @@ body {
     display: block;
     margin: 0.5rem 0;
   }
+  /*style the whole form*/
+  .form {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    background-color: #1b1b32;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  }
   
